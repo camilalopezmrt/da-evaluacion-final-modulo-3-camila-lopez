@@ -16,6 +16,7 @@ El objetivo es comprender el comportamiento de los clientes, detectar patrones y
 
 ## 🗂️ Estructura del Repositorio
 
+```
 da-evaluacion-final-modulo-3-camila-lopez/
 │
 ├── data/
@@ -31,6 +32,8 @@ da-evaluacion-final-modulo-3-camila-lopez/
 │
 ├── README.md
 └── requirements.txt
+```
+
 
 - La carpeta data/ contiene los datasets originales y los archivos generados tras el proceso de limpieza.
 - La carpeta notebooks/ contiene los tres notebooks que estructuran el flujo completo del análisis.
