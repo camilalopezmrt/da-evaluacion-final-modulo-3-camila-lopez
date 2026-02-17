@@ -69,9 +69,8 @@ Se evaluaron diferencias en el número de vuelos reservados según nivel educati
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## 🛠️ Librerías Utilizadas
 
-- Python
 - Pandas
 - NumPy
 - Matplotlib
