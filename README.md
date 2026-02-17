@@ -90,6 +90,8 @@ Se evaluaron diferencias en el número de vuelos reservados según nivel educati
 
 ---
 
-## Autora  
-**Camila López Martin** | [LinkedIn](https://www.linkedin.com/in/camila-adriana-lopez-martin/)
-camilalopezmrt@gmail.com
+## 👩‍💻 Autora  
+**Camila López Martin**  
+🔗 [LinkedIn](https://www.linkedin.com/in/camila-adriana-lopez-martin/)  
+📧 camilalopezmrt@gmail.com
+
