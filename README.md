@@ -14,7 +14,28 @@ El objetivo es comprender el comportamiento de los clientes, detectar patrones y
 
 ---
 
-## 🗂️ Estructura del Proyecto
+## 🗂️ Estructura del Repositorio
+
+da-evaluacion-final-modulo-3-camila-lopez/
+│
+├── data/
+│   ├── Customer Flight Activity.csv
+│   ├── Customer Loyalty History.csv
+│   ├── df_merged.csv
+│   └── df_final.csv
+│
+├── notebooks/
+│   ├── 01-EDA.ipynb
+│   ├── 02-Limpieza.ipynb
+│   └── 03-Analisis-Estadistico.ipynb
+│
+├── README.md
+└── requirements.txt
+
+- La carpeta data/ contiene los datasets originales y los archivos generados tras el proceso de limpieza.
+- La carpeta notebooks/ contiene los tres notebooks que estructuran el flujo completo del análisis.
+
+---
 
 El proyecto está dividido en tres notebooks principales:
 
@@ -75,6 +96,16 @@ Se evaluaron diferencias en el número de vuelos reservados según nivel educati
 - NumPy
 - Matplotlib
 - Seaborn
+
+---
+
+## ⚙️ Instalación
+
+Para instalar las dependencias necesarias:
+
+```bash
+pip install -r requirements.txt
+```
 
 ---
 
